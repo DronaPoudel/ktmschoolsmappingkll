@@ -32,3 +32,10 @@
   height: 100vh !important;
   /* width: 75%; */
 }
+h1{
+  background-color: #282c34;
+  margin: 0;
+  padding: 28px 0;
+  color: aliceblue;
+  text-align: center;
+}
