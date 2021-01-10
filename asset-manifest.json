@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DronaPoudel/ktmschoolsmappingkll/static/css/main.3bb4d2ed.chunk.css",
+    "main.js": "/DronaPoudel/ktmschoolsmappingkll/static/js/main.b4d792de.chunk.js",
+    "main.js.map": "/DronaPoudel/ktmschoolsmappingkll/static/js/main.b4d792de.chunk.js.map",
+    "runtime-main.js": "/DronaPoudel/ktmschoolsmappingkll/static/js/runtime-main.109a0e61.js",
+    "runtime-main.js.map": "/DronaPoudel/ktmschoolsmappingkll/static/js/runtime-main.109a0e61.js.map",
+    "static/css/2.36f280e5.chunk.css": "/DronaPoudel/ktmschoolsmappingkll/static/css/2.36f280e5.chunk.css",
+    "static/js/2.9e0f03f1.chunk.js": "/DronaPoudel/ktmschoolsmappingkll/static/js/2.9e0f03f1.chunk.js",
+    "static/js/2.9e0f03f1.chunk.js.map": "/DronaPoudel/ktmschoolsmappingkll/static/js/2.9e0f03f1.chunk.js.map",
+    "index.html": "/DronaPoudel/ktmschoolsmappingkll/index.html",
+    "precache-manifest.b0ab1a3eebc63a1590d61fa5791753f6.js": "/DronaPoudel/ktmschoolsmappingkll/precache-manifest.b0ab1a3eebc63a1590d61fa5791753f6.js",
+    "service-worker.js": "/DronaPoudel/ktmschoolsmappingkll/service-worker.js",
+    "static/css/2.36f280e5.chunk.css.map": "/DronaPoudel/ktmschoolsmappingkll/static/css/2.36f280e5.chunk.css.map",
+    "static/css/main.3bb4d2ed.chunk.css.map": "/DronaPoudel/ktmschoolsmappingkll/static/css/main.3bb4d2ed.chunk.css.map",
+    "static/js/2.9e0f03f1.chunk.js.LICENSE": "/DronaPoudel/ktmschoolsmappingkll/static/js/2.9e0f03f1.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.109a0e61.js",
+    "static/css/2.36f280e5.chunk.css",
+    "static/js/2.9e0f03f1.chunk.js",
+    "static/css/main.3bb4d2ed.chunk.css",
+    "static/js/main.b4d792de.chunk.js"
+  ]
+}
